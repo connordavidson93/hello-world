@@ -1,2 +1,2 @@
 # hello-world
-My name is Connor and I am learning how to better use coding and scripting with this GIT business.
+My name is Connor. I am re-familiarizing myself with GitHUB for a new class. Things should get pretty crazy this semester.
